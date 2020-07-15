@@ -8,7 +8,10 @@ Blablabla.
 
 ## Purpose
 
+Blabla. 
+
 ## Deployment 
 
+Bla.
 
 ## How to contribute
