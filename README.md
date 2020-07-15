@@ -15,3 +15,7 @@ Blabla.
 Bla.
 
 ## How to contribute
+
+### Copyright 
+
+2020 Git.Training
